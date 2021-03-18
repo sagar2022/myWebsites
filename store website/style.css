@@ -199,7 +199,7 @@ small{
 .col-5 img{
     width: 100%;
     cursor: pointer;
-    filter: grayscale(90%);
+    filter: grayscale(100%);
 }
 .col-5 img:hover{
     filter: grayscale(0);
